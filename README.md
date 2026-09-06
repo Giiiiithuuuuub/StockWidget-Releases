@@ -8,6 +8,10 @@ StockWidget Windows 商业版官方发布仓库。
 
 请从 [GitHub Releases](https://github.com/Giiiiithuuuuub/StockWidget-Releases/releases) 下载最新正式版本。
 
+当前正式版：**1.2.0**
+
+[下载 StockWidget-Setup-1.2.0.exe](https://github.com/Giiiiithuuuuub/StockWidget-Releases/releases/download/v1.2.0/StockWidget-Setup-1.2.0.exe)
+
 正式安装包命名：
 
 ```text
