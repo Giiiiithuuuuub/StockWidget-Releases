@@ -1,0 +1,7 @@
+{
+  "version": "1.1.2",
+  "url": "https://github.com/Giiiiithuuuuub/StockWidget-Releases/releases/tag/v1.1.2",
+  "installer_url": "https://github.com/Giiiiithuuuuub/StockWidget-Releases/releases/download/v1.1.2/StockWidget-Setup-1.1.2.exe",
+  "sha256": "dab35c8ce866b24f9bf6fdc0b6a4c09bb29eb09eec27f2740c005971305368d3",
+  "notes": "普通模式字体支持 8～15pt 调节，新增迷你模式独立字号与字体设置一键重置，并修复字体布局、设置导航和迷你窗口尺寸同步问题。"
+}
