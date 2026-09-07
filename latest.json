@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/Giiiiithuuuuub/StockWidget-Releases/releases/tag/v1.2.0",
-  "installer_url": "https://github.com/Giiiiithuuuuub/StockWidget-Releases/releases/download/v1.2.0/StockWidget-Setup-1.2.0.exe",
-  "sha256": "61a9240f7ce60c66b60669853d93a0dc53bba16b513120d51212456d70876bba",
-  "notes": "持仓管理 2.0 支持加仓、减仓、做 T、摊薄成本与自定义交易费用；新增可选窗口置顶、配置备份恢复、单实例、行情 freshness、新浪分批与腾讯 fallback、静态更新清单，并修复 Windows resize cursor 稳定性问题。"
+  "version": "1.2.1",
+  "url": "https://github.com/Giiiiithuuuuub/StockWidget-Releases/releases/tag/v1.2.1",
+  "installer_url": "https://github.com/Giiiiithuuuuub/StockWidget-Releases/releases/download/v1.2.1/StockWidget-Setup-1.2.1.exe",
+  "sha256": "736aa6d6e1dbe50ce2865dfe7665a9bc510bdefc4938a01f04031611aefd57dd",
+  "notes": "新增自选颜色标记、快捷添加/删除/排序，并统一分时与日K详情卡视觉及胶囊切换控件。"
 }
