@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/Giiiiithuuuuub/StockWidget-Releases/releases/tag/v1.2.1",
-  "installer_url": "https://github.com/Giiiiithuuuuub/StockWidget-Releases/releases/download/v1.2.1/StockWidget-Setup-1.2.1.exe",
-  "sha256": "736aa6d6e1dbe50ce2865dfe7665a9bc510bdefc4938a01f04031611aefd57dd",
-  "notes": "新增自选颜色标记、快捷添加/删除/排序，并统一分时与日K详情卡视觉及胶囊切换控件。"
+  "version": "1.2.2",
+  "url": "https://github.com/Giiiiithuuuuub/StockWidget-Releases/releases/tag/v1.2.2",
+  "installer_url": "https://github.com/Giiiiithuuuuub/StockWidget-Releases/releases/download/v1.2.2/StockWidget-Setup-1.2.2.exe",
+  "sha256": "23d15454863425275eb7b9cbe944b2d0548590526f5b205d4b14f94329780ad6",
+  "notes": "优化持仓保本成本、交易账本、费用与做T收益展示，并将 Mini 模式升级为最多6只股票的多行对齐展示及悬浮多选管理。"
 }
